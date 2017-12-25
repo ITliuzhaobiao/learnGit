@@ -1,2 +1,2 @@
-readme Helloword
+readme HelloWord
 你好
